@@ -1,0 +1,10 @@
+MONGODB_DB = 'music'
+MONGODB_HOST = 'localhost'
+MONGODB_PORT = 27017
+PROXIES = []
+
+REDIS_DB = 0
+REDIS_HOST = 'localhost'
+REDIS_PORT = 6379
+
+DEBUG = True
