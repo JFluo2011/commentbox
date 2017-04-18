@@ -2,7 +2,7 @@
 
 一个抓取网易云音乐精彩评论的爬虫(forked from dongweiming/commentbox)
 
-爬虫实现可见[Python之美](https://zhuanlan.zhihu.com/p/22456856)。请访问[云音乐评论](http://music.python-cn.org/)看真实效果。
+爬虫实现可见[Python之美](https://zhuanlan.zhihu.com/p/22456856)。请访问[云音乐评论](http://music.python-cn.org/)看真实效果。(链接均已失效)
 
 预览，Web端：
 
