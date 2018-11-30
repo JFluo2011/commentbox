@@ -2,7 +2,7 @@ flask==0.11
 mongoengine==0.10.6
 flask-mako==0.4
 flask-mongoengine==0.8
-requests
+requests>=2.20.0
 -e git+https://github.com/dongweiming/fake-useragent.git@master#egg=fake-useragent
 lxml==3.6.4
 futures==3.0.5
