@@ -1,4 +1,4 @@
-flask==0.11
+flask
 mongoengine==0.10.6
 flask-mako==0.4
 flask-mongoengine==0.8
